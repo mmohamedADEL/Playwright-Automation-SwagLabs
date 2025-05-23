@@ -1,0 +1,18 @@
+{
+  "validData" : {
+    "FirstName" : "Mohamed",
+    "LastName" : "Ali",
+    "postalCode" : "12345"
+  },
+    "invalidData1" : {
+        "FirstName" : "Ali",
+        "LastName" : "",
+        "postalCode" : "123456"
+    },
+    "invalidData2" : {
+        "FirstName" : "Mohamed",
+        "LastName" : "Ali",
+        "postalCode" : "Mohamed"
+    }
+
+}
